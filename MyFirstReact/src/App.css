@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+.colorBox {
+  padding: 200px;
+  border: 2px solid green;
+  display: flex;
+  justify-content: space-between;
+}
