@@ -1,7 +1,12 @@
 import "./App.css";
+import FormData from "./FormData";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <FormData />
+    </>
+  );
 }
 
 export default App;
